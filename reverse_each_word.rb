@@ -4,6 +4,6 @@ def reverse_each_word(string)
       word
       
   end
-   new_array
+   
 end
 
